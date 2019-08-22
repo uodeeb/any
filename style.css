@@ -1,0 +1,9 @@
+*{
+    margin: auto;
+    text-align: center;
+}
+.head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: red;
+}
